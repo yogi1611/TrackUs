@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "185460139850",
+    "firebase_url": "https://schooltracking-d1b44-default-rtdb.firebaseio.com",
+    "project_id": "schooltracking-d1b44",
+    "storage_bucket": "schooltracking-d1b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185460139850:android:38ea5dd187fd119393c3b3",
+        "android_client_info": {
+          "package_name": "tsukasa.finatic.schooltracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185460139850-jlfut2n62gi9ndgvd97p5ck39n3om32h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tsukasa.finatic.schooltracking",
+            "certificate_hash": "de717c01c5645017c2ffc2a6d64cd54c00215c59"
+          }
+        },
+        {
+          "client_id": "185460139850-qfp0ulmbq582gr2e1onqlphpu3h3fq9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBZfn-lYg4zhkXUJfAz9U5y9UvAvnwZKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185460139850-qfp0ulmbq582gr2e1onqlphpu3h3fq9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
